@@ -1,0 +1,9 @@
+
+{
+  "name": "SakhiSanitize",
+  "description": "A comprehensive women's healthcare platform providing sanitary kits, doctor consultations, medicine support, and menstrual health education with privacy and trust.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
